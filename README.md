@@ -6,10 +6,4 @@ Key Features:
 Utilizes logistic regression for binary classification (survived or not).
 Implements data preprocessing techniques, including handling missing values and encoding categorical variables.
 Evaluates model performance using accuracy, confusion matrix, and classification report.
-Technologies Used:
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Jupyter Notebook
